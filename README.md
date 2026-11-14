@@ -1,4 +1,4 @@
-<p align="center"><img src="nimbus-banner.jpg" alt="Nimbus"></p>
+
 
 <p align="center"><img src="nimbus-logo.png" alt="Nimbus logo" width="96"></p>
 
@@ -86,6 +86,8 @@ This adds a tab where you can change the menu key, switch themes, pick your own 
 - `Nimbus:Destroy()` gets rid of everything
 - If you run your script again it closes the old menu first, so you won't end up with two
 - On phones there is a small round button you can tap to open the menu, and you can drag it around
+
+<p align="center"><img src="nimbus-banner.jpg" alt="Nimbus"></p>
 
 ## License
 
