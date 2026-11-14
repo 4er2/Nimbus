@@ -89,6 +89,3 @@ This adds a tab where you can change the menu key, switch themes, pick your own 
 
 <p align="center"><img src="nimbus-banner.jpg" alt="Nimbus"></p>
 
-## License
-
-MIT, so you can use it however you want.
