@@ -2,7 +2,9 @@
 
 # Nimbus
 
-Nimbus is a ui library for roblox that I made because I wanted a menu that looked kind of like frosted glass instead of the usual flat boxes. It has a sidebar for tabs, rounded everything, and it blurs the game behind it when you open it. It also has a search bar at the top that filters whatever tab you are on, which I thought was cool.
+Nimbus is a ui library for Roblox 
+
+Yes i made this in 20 minutes with Claude
 
 ## Loading it
 
@@ -85,6 +87,3 @@ This adds a tab where you can change the menu key, switch themes, pick your own 
 - If you run your script again it closes the old menu first, so you won't end up with two
 - On phones there is a small round button you can tap to open the menu, and you can drag it around
 
-## License
-
-MIT, so you can use it however you want.
